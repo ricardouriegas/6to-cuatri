@@ -1,5 +1,7 @@
 [
   "obsidian-minimal-settings",
   "obsidian-git",
-  "table-editor-obsidian"
+  "table-editor-obsidian",
+  "github-copilot",
+  "obsidian-tasks-plugin"
 ]

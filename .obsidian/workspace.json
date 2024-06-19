@@ -4,29 +4,66 @@
     "type": "split",
     "children": [
       {
-        "id": "b223c875fe8dcc3a",
+        "id": "2793457b4dded758",
         "type": "tabs",
         "children": [
           {
-            "id": "d7edffcbaf52ba07",
+            "id": "c1670a91d4471135",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "semester_6/Oriented_Object_Paradigm/Oriented Object Paradigm.md",
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "647bce66cd5de372",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "semester_6/Operating_Systems/Operating Systems.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "08419eaadfa03721",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "semester_6/Operating_Systems/Operating System Utilities.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a08b151fc5bcff28",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "semester_6/Operating_Systems/Operating Systems.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
-        "id": "d8653510eeaa07d9",
+        "id": "5dc87cf37b36d92a",
         "type": "tabs",
         "children": [
           {
-            "id": "3f83f38cf7dc5135",
+            "id": "366665d9f13cb47a",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -99,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "semester_6/Oriented_Object_Paradigm/Oriented Object Paradigm.md",
+                "file": "semester_6/Operating_Systems/Operating Systems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "semester_6/Oriented_Object_Paradigm/Oriented Object Paradigm.md",
+                "file": "semester_6/Operating_Systems/Operating Systems.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "semester_6/Oriented_Object_Paradigm/Oriented Object Paradigm.md"
+                "file": "semester_6/Operating_Systems/Operating Systems.md"
               }
             }
           }
@@ -152,22 +189,27 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "d7edffcbaf52ba07",
+  "active": "a08b151fc5bcff28",
   "lastOpenFiles": [
+    "semester_6/Operating_Systems/Operating System Utilities.md",
+    "TO DO.md",
     "semester_6/Operating_Systems/Operating Systems.md",
+    "README.md",
+    "2024-06-18.md",
+    "semester_6/Operating_Systems/Unit_1",
     "semester_6/Oriented_Object_Paradigm/Oriented Object Paradigm.md",
+    "LICENSE",
     "semester_6/PL_SQL/PL SQL.md",
     "semester_6/PL_SQL",
-    "Welcome.md",
     "semester_6/Operating_Systems",
     "semester_6/Oriented_Object_Paradigm",
     "semester_6/Untitled.md",
