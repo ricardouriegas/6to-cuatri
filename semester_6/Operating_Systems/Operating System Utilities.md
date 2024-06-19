@@ -28,5 +28,73 @@ Now, a process can have multiple threads, which are smaller processes that run i
 - `fg`: Bring a job to the foreground.
 - `jobs`: List active jobs.
 
-- [ ] Write the correspond example with bash 🛫 2024-06-18 
+- [x] Write the correspond example with bash 🛫 2024-06-18 ✅ 2024-06-19
 %% Here's a simple example using bash to run the commands listed above: %%
+```bash
+#!/bin/bash
+# Testing Process management commands
+
+# creating a background process
+sleep 100 &
+# id variable
+id=$!
+echo "To close top press q"
+echo "Process for the firt sleep ID: $id"
+
+# wait 5 seconds before running the next command
+sleep 5
+
+# ps
+ps
+
+# top
+top
+
+# kill
+kill $id
+echo "Process with ID $id killed"
+
+# killall
+sleep 100 &
+id=$!
+echo "Process ID: $id"
+killall sleep
+echo "All sleep processes killed"
+
+# pkill
+sleep 100 &
+id=$!
+echo "Process ID: $id"
+pkill sleep
+
+# pgrep
+sleep 100 &
+id=$!
+echo "Process ID: $id"
+pgrep sleep
+
+# nice 
+nice -n 10 sleep 100 &
+id=$!
+
+# renice
+renice -n 10 $id
+
+# nohup
+nohup sleep 100 &
+id=$!
+
+# bg
+sleep 100 &
+id=$!
+bg $id
+
+# fg
+fg $id
+
+# jobs
+jobs
+```
+
+Here's all the [[Kill Signals (spanish)]]
+> Note: Is in spanish

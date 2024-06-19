@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "semester_6/Operating_Systems/Operating System Utilities.md",
+                "file": "semester_6/Oriented_Object_Paradigm/Oriented Object Paradigm.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,14 +49,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "semester_6/Operating_Systems/Operating Systems.md",
+                "file": "TO DO.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       },
       {
         "id": "5dc87cf37b36d92a",
@@ -66,8 +66,12 @@
             "id": "366665d9f13cb47a",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "TO DO.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -136,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "semester_6/Operating_Systems/Operating Systems.md",
+                "file": "semester_6/Oriented_Object_Paradigm/Oriented Object Paradigm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "semester_6/Operating_Systems/Operating Systems.md",
+                "file": "semester_6/Oriented_Object_Paradigm/Oriented Object Paradigm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "semester_6/Operating_Systems/Operating Systems.md"
+                "file": "semester_6/Oriented_Object_Paradigm/Oriented Object Paradigm.md"
               }
             }
           }
@@ -198,10 +202,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a08b151fc5bcff28",
+  "active": "08419eaadfa03721",
   "lastOpenFiles": [
     "semester_6/Operating_Systems/Operating System Utilities.md",
     "TO DO.md",
+    "semester_6/Operating_Systems/Kill Signals (spanish).md",
+    "Untitled.md",
     "semester_6/Operating_Systems/Operating Systems.md",
     "README.md",
     "2024-06-18.md",
