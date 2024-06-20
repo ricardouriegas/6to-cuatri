@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "semester_6/Operating_Systems/Operating Systems.md",
+                "file": "semester_6/Operating_Systems/Operating_System_Utilities/Scripting.md",
                 "mode": "source",
                 "source": false
               }
@@ -44,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "5dc87cf37b36d92a",
@@ -137,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "semester_6/Operating_Systems/Operating_System_Utilities/Scripting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "semester_6/Operating_Systems/Operating_System_Utilities/Scripting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "semester_6/Operating_Systems/Operating_System_Utilities/Scripting.md"
               }
             }
           }
@@ -199,16 +199,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "08419eaadfa03721",
+  "active": "647bce66cd5de372",
   "lastOpenFiles": [
     "TO DO.md",
-    "README.md",
+    "semester_6/Operating_Systems/Operating_System_Utilities/Packaging.md",
+    "semester_6/Operating_Systems/Operating_System_Utilities/Scripting.md",
     "semester_6/Operating_Systems/Operating Systems.md",
+    "README.md",
     "semester_6/Operating_Systems/Operating_System_Administration",
     "semester_6/Operating_Systems/Operating_System_Utilities",
     "semester_6/Operating_Systems/Operating_System_Utilities/Basics.md",
-    "semester_6/Operating_Systems/Operating_System_Utilities/Packaging.md",
-    "semester_6/Operating_Systems/Operating_System_Utilities/Scripting.md",
     "semester_6/Operating_Systems/Operating_System_Utilities/Kill Signals (spanish).md",
     "semester_6/Oriented_Object_Paradigm/Oriented Object Paradigm.md",
     "Untitled.md",

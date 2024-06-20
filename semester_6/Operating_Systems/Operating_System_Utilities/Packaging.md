@@ -1,5 +1,5 @@
 ### 2.4 Comandos para Empaquetar y Comprimir Archivos y Directorios
-- [ ] Grabar el tema 2.4.1 📅 2024-06-20 
+- [x] Grabar el tema 2.4.1 📅 2024-06-20 ✅ 2024-06-20
 
 #### 2.4.1 Describir el concepto y evidenciar el funcionamiento de empaquetado de archivos y directorios
 
