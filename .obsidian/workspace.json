@@ -37,19 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "semester_6/Operating_Systems/Scripting.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a08b151fc5bcff28",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TO DO.md",
+                "file": "semester_6/Operating_Systems/Packaging.md",
                 "mode": "source",
                 "source": false
               }
@@ -63,7 +51,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "366665d9f13cb47a",
+            "id": "a08b151fc5bcff28",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -74,11 +62,16 @@
             "id": "bcc3568ad25002f5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "TO DO.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -128,8 +121,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "3eab6fc76fe16f6d",
@@ -145,6 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "semester_6/Operating_Systems/Packaging.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,6 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "semester_6/Operating_Systems/Packaging.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +176,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "semester_6/Operating_Systems/Packaging.md"
+              }
             }
           }
         ]
@@ -203,13 +199,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "366665d9f13cb47a",
+  "active": "08419eaadfa03721",
   "lastOpenFiles": [
+    "TO DO.md",
+    "semester_6/Operating_Systems/Packaging.md",
     "semester_6/Operating_Systems/Scripting.md",
     "semester_6/Operating_Systems/Operating Systems.md",
     "README.md",
-    "TO DO.md",
-    "semester_6/Operating_Systems/Packaging.md",
     "semester_6/Operating_Systems/Operating System Utilities.md",
     "semester_6/Operating_Systems/Kill Signals (spanish).md",
     "semester_6/Oriented_Object_Paradigm/Oriented Object Paradigm.md",
