@@ -1,5 +1,5 @@
 ## Welcome
-This is my personal school vault for notes.
+This is my personal school **obsidian** vault for notes.
 
 > *From 1st to 5th semester i took notes on notebooks, but now i'm able to take notes using a laptop.*
 
