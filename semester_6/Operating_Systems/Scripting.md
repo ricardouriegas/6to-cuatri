@@ -81,6 +81,7 @@ Cada miembro debe:
 1. Explicar un script sin funciones.
 ```bash
 #!/bin/sh
+# Print today
 echo "Today is: $(date)"
 
 # get current directory
@@ -91,9 +92,9 @@ read -p "Enter a directory path: " target_dir
 # Check if the target directory is the same as the current directory 
 
 if [ "$current_dir" = "$target_dir" ]; then 
-	echo "Yes, '$target_dir' is the current directory." 
+	echo "Yes, '$target_dir' is the same as '$current_dir'." 
 else 
-	echo "No, '$target_dir' is not the current directory." 
+	echo "No, '$target_dir' is different from '$current_dir'." 
 fi
 
 ```
@@ -117,6 +118,9 @@ compare_dirs() {
     echo "No, '$dir1' is different from '$dir2'."
   fi
 }
+
+# Print today
+echo "Today is: $(date)"
 
 # Get the current directory
 current_dir=$(get_current_dir)
