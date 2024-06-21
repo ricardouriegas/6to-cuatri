@@ -1,5 +1,5 @@
 Here you will find some activities i need to do in a future:
-- [ ] Hacer la actividad de valores 📅 2024-06-20 
+- [x] Hacer la actividad de valores 📅 2024-06-20 ✅ 2024-06-21
 
 ```tasks
 # Only tasks that are not done, that is, which begin like this (but without the quotes):
