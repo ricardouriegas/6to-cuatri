@@ -20,18 +20,6 @@
             }
           },
           {
-            "id": "647bce66cd5de372",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "semester_6/Operating_Systems/Operating_System_Utilities/Scripting.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "bcc3568ad25002f5",
             "type": "leaf",
             "state": {
@@ -59,11 +47,11 @@
         "currentTab": 1
       },
       {
-        "id": "5dc87cf37b36d92a",
+        "id": "c78c353222249d97",
         "type": "tabs",
         "children": [
           {
-            "id": "a08b151fc5bcff28",
+            "id": "647bce66cd5de372",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -120,7 +108,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 394.5
+    "width": 252.5
   },
   "right": {
     "id": "3eab6fc76fe16f6d",
@@ -136,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "semester_6/Operating_Systems/Operating_System_Utilities/Scripting.md",
+                "file": "semester_6/Oriented_Object_Paradigm/Exceptions_And_Errors_Management/Exceptions and Errors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "semester_6/Operating_Systems/Operating_System_Utilities/Scripting.md",
+                "file": "semester_6/Oriented_Object_Paradigm/Exceptions_And_Errors_Management/Exceptions and Errors.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "semester_6/Operating_Systems/Operating_System_Utilities/Scripting.md"
+                "file": "semester_6/Oriented_Object_Paradigm/Exceptions_And_Errors_Management/Exceptions and Errors.md"
               }
             }
           }
@@ -198,16 +186,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "647bce66cd5de372",
+  "active": "bcc3568ad25002f5",
   "lastOpenFiles": [
+    "Pasted image 20240623164222.png",
+    "Pasted image 20240623164203.png",
+    "Pasted image 20240623164154.png",
+    "Pasted image 20240623090003.png",
+    "Pasted image 20240623085614.png",
+    "semester_6/Oriented_Object_Paradigm/Exceptions_And_Errors_Management/images",
+    "semester_6/Oriented_Object_Paradigm/Exceptions_And_Errors_Management/images/Pasted image 20240623085218.png",
     "semester_6/Oriented_Object_Paradigm/Oriented Object Paradigm.md",
-    "README.md",
     "semester_6/Oriented_Object_Paradigm/Exceptions_And_Errors_Management/Exceptions and Errors.md",
+    "Pasted image 20240623085000.png",
+    "img/jerarquia_exception.png.md",
+    "img",
+    "semester_6/Operating_Systems/Operating_System_Utilities/Scripting.md",
+    "README.md",
     "semester_6/Operating_Systems/Operating_System_Utilities/Basics.md",
     "semester_6/Operating_Systems/Operating Systems.md",
     "semester_6/Oriented_Object_Paradigm/Exceptions_And_Errors_Management",
     "TO DO.md",
-    "semester_6/Operating_Systems/Operating_System_Utilities/Scripting.md",
     "semester_6/Operating_Systems/Operating_System_Utilities/Packaging.md",
     "semester_6/Operating_Systems/Operating_System_Administration",
     "semester_6/Operating_Systems/Operating_System_Utilities",
@@ -220,7 +218,6 @@
     "semester_6/PL_SQL",
     "semester_6/Operating_Systems",
     "semester_6/Oriented_Object_Paradigm",
-    "semester_6/Untitled.md",
-    "semester_6"
+    "semester_6/Untitled.md"
   ]
 }

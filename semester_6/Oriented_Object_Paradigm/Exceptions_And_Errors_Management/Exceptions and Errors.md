@@ -3,11 +3,11 @@
 
 ## Excepciones
 
-En java, existen clases llamadas **Excepciones** (Exceptions) que representan eventos que interrumpen la ejecución o flujo normal del sistema. Nosotros ya hemos tenido algún contanco con las excepciones en algún momento. Las excepciones normalmente tienen nombre que terminan con *Exception*: `NullPointerException`, `ClassCastException`, `ArrayIndexOutOfBoundsException`, por mencionar algunas.
+En java, existen clases llamadas **Excepciones** (Exceptions) que representan eventos que interrumpen la ejecución o flujo normal del sistema. Las excepciones normalmente tienen nombre que terminan con *Exception*: `NullPointerException`, `ClassCastException`, `ArrayIndexOutOfBoundsException`, por mencionar algunas.
 
-Podemos definir una **Excepción** como una situación anómala que puede producirse durante la ejecución de un programa, como puede ser un intento de división entre  0, un acceso a posiciones de un array fuera de los límites del mismo o un fallo durante la lectura de datos de la entrada/salida. Mediante la captura de excepciones, java proporciona un mecanismo que permite al programa sobreponerse a estas situaciones, pudiendo el programador decidir las acciones a realizar para cada tipo de excepción que pueda ocurrir.
+Podemos definir una **Excepción** como ==*una situación anómala que puede producirse durante la ejecución de un programa*==, ejmplo puede ser un intento de división entre  0, un acceso a posiciones de un array fuera de los límites del mismo o un fallo durante la lectura de datos de la entrada/salida. Mediante la captura de excepciones, java proporciona un mecanismo que permite al programa sobreponerse a estas situaciones, pudiendo el programador decidir las acciones a realizar para cada tipo de excepción que pueda ocurrir.
 
-Cada objeto **Excepción** puede ser lanzada (generada) ya sea: automáticamente por la JVM (Máquina virtual de Java) o por el código de la aplicación, utilizando el comando `throw`. Si un bloque de código lanza una excepción, se puede ulizar los bloques `try-catch` o `try-catch-finally` para capturar y manejar la excepción. En caso de que excepción no ha sido capturada y/o manejada, ésta se propaga completamente fuera de la aplicación a la JVM y la obligará a salir (y abortar la ejecución de la aplicación).
+Cada objeto **Excepción** puede ser lanzada (generada) ya sea: automáticamente por la JVM (Máquina virtual de Java - `Java Virtual Machine`) o por el código de la aplicación, utilizando el comando `throw`. Si un bloque de código lanza una excepción, se puede ulizar los bloques `try-catch` o `try-catch-finally` para capturar y manejar la excepción. En caso de que la excepción no ha sido capturada y/o manejada, ésta se propaga completamente fuera de la aplicación a la JVM y la obligará a salir (y abortar la ejecución de la aplicación).
 
 Un ejemplo del manejo de excepciones se muestra en el siguiente código:
 
@@ -30,7 +30,7 @@ public class ExceptionExample1 {
 }
 ```
 
-Algunas veces es necesario ejecutar algún código independientemente si se lanzó/capturó una escepción o no. En lugar de repetir el mismo bloque de cópdigo en dos lugares, se puede utilizar un bloque `finally` de la siguiente manera:
+Algunas veces es necesario ejecutar algún código independientemente si se lanzó/capturó una `Exception` o no. En lugar de repetir el mismo bloque de código en dos lugares, se puede utilizar un bloque `finally` de la siguiente manera:
 
 ```Java
 package U1_ManejodeErroresyExcepciones.ejemplos;
@@ -122,15 +122,17 @@ java.lang.NullPointerException
 La excepción pertenece a NullPointerException
 ```
 
-La salida entre las líneas 3 y 5 se le conoce como **pila de excepciones (Stack Trace)**, que en pocas palabras el la propagación de la excepción a lo largo de las llamadas de métodos hasta llegar a la JVM. Cuando ocurre una excepción, todo el contenido de la pila se devuelve como el seguimiento de la exepción. Ésto nos permite rastrear la línea de código que causó el problema. Para evitar que esto suceda, se puede detectar la excepción y se ejecuta algún código para recuperarse de dicha condición.
+La salida entre las líneas 3 y 5 se le conoce como **pila de excepciones (`Stack Trace`)**, que en pocas palabras el la propagación de la excepción a lo largo de las llamadas de métodos hasta llegar a la JVM. Cuando ocurre una excepción, todo el contenido de la pila se devuelve como el seguimiento de la exepción. Ésto nos permite rastrear la línea de código que causó el problema. Para evitar que esto suceda, se puede detectar la excepción y se ejecuta algún código para recuperarse de dicha condición.
 
-El objetivo del manejo de excepciones en Java es proteger el código de la aplicación de una condición inesperada y recuperarse de él, si es posible.
+El objetivo del manejo de excepciones en Java es proteger el código de la aplicación de una condición "inesperada" y recuperarse de él, si es posible.
 
 ---
 
 ## Excepciones y Errores
 
 Si observamos la siguente figura que corresponde a la documentación del paquete `java.lang`, veremos que contiene un gran cantidad de clases de excepciones y errores. Ambas clases se extienden de la clase `java.lang.Throwable` y por lo tanto heredar todos lo métodos de ella. 
+
+![[Pasted image 20240623085614.png]]
 
 El caso particular de la sub-clases de la clase `Error` y de acuerdo a la documentación oficial indica que: **un `Error` indica problemas serios que una aplicación razonable no debería intentar manejar**, es decir, un error representa una situación anormal irreversible, como por ejemplo un fallo de la máquina virtual; y por regla general, un programa no deberá intentar recuperarse de un error, dado que son situaciones que se escapan al control del programador.
 
@@ -142,13 +144,13 @@ Algunos ejemplos de clases heredadas de la clase `Error` son:
 
 Las excepciones, por otro lado, generalmente están relacionadas con los problemas específicos de la aplicación y, a menudo, no requieren que se termine la aplicación y se busque la recuperación de la misma. Es por eso que generalmente se implementa una ruta alternativa (al flujo principal) de la lógica de la aplicación, o al menos informan el problema sin cerrar la aplicación.
 
-En resumen: cada tipo de excepción está representada por una subclase de `Exception`, mientras que los errores son subclases de `Error`. Ambas clases, Exception y Error, son subclases de `Throwable`, tal como se muestra en la siguiente figura
+En resumen: cada tipo de excepción está representada por una subclase de `Exception`, mientras que los errores son subclases de `Error`. Ambas clases, Exception y Error, son subclases de `Throwable`, tal como se muestra en la siguiente imagen:
 
-![](img/jerarquia_excepciones_errores.png)
+![[Pasted image 20240623085218.png]]
 
 Al producirse una excepción en un programa, se crea un objeto de la subclase de Exception a la que pertenece la excepción. Como veremos más adelante, este objeto puede ser utilizado por el programa durante el tratamiento de la excepción para obtener información de la misma.
 
-![](img/jerarquia_exception.png)
+![[Pasted image 20240623090003.png]]
 
 Desde el punto de vista del tratamiento de una excepción dentro de un programa, hay que tener en cuenta que todas estas clases de excepción se dividen en dos grandes grupos:
   * Excepciones marcadas.
@@ -573,10 +575,9 @@ Observamos que la excepción pasa a través de `boxInteger` para ser manejada po
 
 Como se ha visto hasta el momento, java tiene un conjunto de excepciones muy grande:
 
-![Exception Class](img/../img/exception_subclasses.png)
+![[Pasted image 20240623164154.png]]
 
-![RuntimeException Class](img/runtime_subclases.png)
-
+![[Pasted image 20240623164203.png]]
 no obstante, existen ocasiones en donde no exista una excepción para un caso particular, o bien, necesitemos incrementar la limpiesa de nuestro código (y a su vez su elegancia).
 
 Dado lo anterior, Java permite la implemetanción de nuevas excepciones mediente la extención de la clase `Exception` o alguna de sus sub-clases.
@@ -633,7 +634,7 @@ U1_ManejodeErroresyExcepciones.ejemplos.NotEvenIntegerException: Sólo se pueden
 
 Se observa que no se requiere la implementación de un bloque `try`-`catch` debido a que la clase `NotEvenInteger` hereda (indirecamente) de la clase `RuntimeException` a través de `NumberFormatException`, por lo cual, es una **excepción no marcada**:
 
-![](img/numberformatexception_jerarquia.png)
+![[Pasted image 20240623164222.png]]
 
 ### Excepciones marcadas propias
 
