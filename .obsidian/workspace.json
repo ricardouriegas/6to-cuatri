@@ -23,6 +23,16 @@
             "id": "bcc3568ad25002f5",
             "type": "leaf",
             "state": {
+              "type": "image",
+              "state": {
+                "file": "semester_6/Oriented_Object_Paradigm/Exceptions_And_Errors_Management/images/Pasted image 20240623164222.png"
+              }
+            }
+          },
+          {
+            "id": "792ad1a9f991048e",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
                 "file": "semester_6/Oriented_Object_Paradigm/Exceptions_And_Errors_Management/Exceptions and Errors.md",
@@ -44,14 +54,14 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "c78c353222249d97",
         "type": "tabs",
         "children": [
           {
-            "id": "647bce66cd5de372",
+            "id": "cbe8f1e58bc443e7",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -124,7 +134,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "semester_6/Oriented_Object_Paradigm/Exceptions_And_Errors_Management/Exceptions and Errors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +150,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "semester_6/Oriented_Object_Paradigm/Exceptions_And_Errors_Management/Exceptions and Errors.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,9 +171,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "semester_6/Oriented_Object_Paradigm/Exceptions_And_Errors_Management/Exceptions and Errors.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -186,19 +192,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bcc3568ad25002f5",
+  "active": "cbe8f1e58bc443e7",
   "lastOpenFiles": [
-    "Pasted image 20240623164222.png",
-    "Pasted image 20240623164203.png",
-    "Pasted image 20240623164154.png",
-    "Pasted image 20240623090003.png",
-    "Pasted image 20240623085614.png",
+    "semester_6/Oriented_Object_Paradigm/Exceptions_And_Errors_Management/Exceptions and Errors.md",
+    "semester_6/Oriented_Object_Paradigm/Exceptions_And_Errors_Management/images/Pasted image 20240623164203.png",
+    "semester_6/Oriented_Object_Paradigm/Exceptions_And_Errors_Management/images/Pasted image 20240623164222.png",
+    "jerarquia_exception.png.md",
+    "semester_6/Oriented_Object_Paradigm/Exceptions_And_Errors_Management/images/Pasted image 20240623164154.png",
+    "semester_6/Oriented_Object_Paradigm/Exceptions_And_Errors_Management/images/Pasted image 20240623090003.png",
+    "semester_6/Oriented_Object_Paradigm/Exceptions_And_Errors_Management/images/Pasted image 20240623085614.png",
     "semester_6/Oriented_Object_Paradigm/Exceptions_And_Errors_Management/images",
     "semester_6/Oriented_Object_Paradigm/Exceptions_And_Errors_Management/images/Pasted image 20240623085218.png",
     "semester_6/Oriented_Object_Paradigm/Oriented Object Paradigm.md",
-    "semester_6/Oriented_Object_Paradigm/Exceptions_And_Errors_Management/Exceptions and Errors.md",
     "Pasted image 20240623085000.png",
-    "img/jerarquia_exception.png.md",
     "img",
     "semester_6/Operating_Systems/Operating_System_Utilities/Scripting.md",
     "README.md",
