@@ -1,0 +1,1 @@
+- [ ] I need to resolve the issue i put on github 🛫 2024-06-24 (semi resolved but not fully complete) [https://github.com/ricardouriegas/sql-developer-and-modeler/issues]()

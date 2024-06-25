@@ -13,19 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "semester_6/Oriented_Object_Paradigm/Oriented Object Paradigm.md",
+                "file": "projects_nores/POO Project 4.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "bcc3568ad25002f5",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "semester_6/Oriented_Object_Paradigm/Exceptions_And_Errors_Management/images/Pasted image 20240623164222.png"
               }
             }
           },
@@ -51,21 +41,6 @@
                 "mode": "source",
                 "source": false
               }
-            }
-          }
-        ],
-        "currentTab": 2
-      },
-      {
-        "id": "c78c353222249d97",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "cbe8f1e58bc443e7",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           }
         ]
@@ -134,6 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "projects_nores/POO Project 4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,6 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "projects_nores/POO Project 4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +148,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "projects_nores/POO Project 4.md"
+              }
             }
           }
         ]
@@ -192,8 +171,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cbe8f1e58bc443e7",
+  "active": "c1670a91d4471135",
   "lastOpenFiles": [
+    "TO DO.md",
+    "projects_nores/POO Project 4.md",
+    "projects_nores",
+    "semester_6/Oriented_Object_Paradigm/Oriented Object Paradigm.md",
     "semester_6/Oriented_Object_Paradigm/Exceptions_And_Errors_Management/Exceptions and Errors.md",
     "semester_6/Oriented_Object_Paradigm/Exceptions_And_Errors_Management/images/Pasted image 20240623164203.png",
     "semester_6/Oriented_Object_Paradigm/Exceptions_And_Errors_Management/images/Pasted image 20240623164222.png",
@@ -203,7 +186,6 @@
     "semester_6/Oriented_Object_Paradigm/Exceptions_And_Errors_Management/images/Pasted image 20240623085614.png",
     "semester_6/Oriented_Object_Paradigm/Exceptions_And_Errors_Management/images",
     "semester_6/Oriented_Object_Paradigm/Exceptions_And_Errors_Management/images/Pasted image 20240623085218.png",
-    "semester_6/Oriented_Object_Paradigm/Oriented Object Paradigm.md",
     "Pasted image 20240623085000.png",
     "img",
     "semester_6/Operating_Systems/Operating_System_Utilities/Scripting.md",
@@ -211,7 +193,6 @@
     "semester_6/Operating_Systems/Operating_System_Utilities/Basics.md",
     "semester_6/Operating_Systems/Operating Systems.md",
     "semester_6/Oriented_Object_Paradigm/Exceptions_And_Errors_Management",
-    "TO DO.md",
     "semester_6/Operating_Systems/Operating_System_Utilities/Packaging.md",
     "semester_6/Operating_Systems/Operating_System_Administration",
     "semester_6/Operating_Systems/Operating_System_Utilities",
@@ -223,7 +204,6 @@
     "semester_6/PL_SQL/PL SQL.md",
     "semester_6/PL_SQL",
     "semester_6/Operating_Systems",
-    "semester_6/Oriented_Object_Paradigm",
     "semester_6/Untitled.md"
   ]
 }
