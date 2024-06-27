@@ -8,7 +8,7 @@ El empaquetado agrupa varios archivos y/o directorios en un solo archivo. Esto f
 #### `tar`
 
 - **Crear un archivo**: `tar -c -f archivo.tar directorio/` o `tar --create --file=archivo.tar directorio/`
-- **Extraer un archivo**: `tar -x -f archivo.tar` o `tar --extract --file=archivo.tar`
+- **Extraer un archivo**: `tar -x -f archivo.tar` o `tar --extract --file=archivo.tar++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++`
 - **Listar contenidos**: `tar -t -f archivo.tar` o `tar --list --file=archivo.tar`
 - **Modo detallado**: `tar -v` o `tar --verbose`
 

@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c1670a91d4471135",
+            "id": "9db38434178dae80",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "projects_nores/POO Project 4.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "792ad1a9f991048e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "semester_6/Oriented_Object_Paradigm/Exceptions_And_Errors_Management/Exceptions and Errors.md",
+                "file": "semester_6/Operating_Systems/Operating_System_Utilities/Scripting.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,13 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "semester_6/Oriented_Object_Paradigm/Network_Programming/ArchivesServer.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -109,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "projects_nores/POO Project 4.md",
+                "file": "semester_6/Oriented_Object_Paradigm/Network_Programming/ArchivesServer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "projects_nores/POO Project 4.md",
+                "file": "semester_6/Oriented_Object_Paradigm/Network_Programming/ArchivesServer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "projects_nores/POO Project 4.md"
+                "file": "semester_6/Oriented_Object_Paradigm/Network_Programming/ArchivesServer.md"
               }
             }
           }
@@ -171,13 +160,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c1670a91d4471135",
+  "active": "08419eaadfa03721",
   "lastOpenFiles": [
-    "TO DO.md",
+    "semester_6/Operating_Systems/Operating_System_Utilities/Packaging.md",
+    "semester_6/Oriented_Object_Paradigm/Network_Programming/ArchivesServer.md",
+    "semester_6/Oriented_Object_Paradigm/Network_Programming",
+    "semester_6/Operating_Systems/Operating_System_Utilities/Scripting.md",
+    "semester_6/Operating_Systems/Operating Systems.md",
+    "README.md",
     "projects_nores/POO Project 4.md",
+    "semester_6/Oriented_Object_Paradigm/Exceptions_And_Errors_Management/Exceptions and Errors.md",
+    "TO DO.md",
     "projects_nores",
     "semester_6/Oriented_Object_Paradigm/Oriented Object Paradigm.md",
-    "semester_6/Oriented_Object_Paradigm/Exceptions_And_Errors_Management/Exceptions and Errors.md",
     "semester_6/Oriented_Object_Paradigm/Exceptions_And_Errors_Management/images/Pasted image 20240623164203.png",
     "semester_6/Oriented_Object_Paradigm/Exceptions_And_Errors_Management/images/Pasted image 20240623164222.png",
     "jerarquia_exception.png.md",
@@ -188,12 +183,8 @@
     "semester_6/Oriented_Object_Paradigm/Exceptions_And_Errors_Management/images/Pasted image 20240623085218.png",
     "Pasted image 20240623085000.png",
     "img",
-    "semester_6/Operating_Systems/Operating_System_Utilities/Scripting.md",
-    "README.md",
     "semester_6/Operating_Systems/Operating_System_Utilities/Basics.md",
-    "semester_6/Operating_Systems/Operating Systems.md",
     "semester_6/Oriented_Object_Paradigm/Exceptions_And_Errors_Management",
-    "semester_6/Operating_Systems/Operating_System_Utilities/Packaging.md",
     "semester_6/Operating_Systems/Operating_System_Administration",
     "semester_6/Operating_Systems/Operating_System_Utilities",
     "semester_6/Operating_Systems/Operating_System_Utilities/Kill Signals (spanish).md",
@@ -203,7 +194,6 @@
     "LICENSE",
     "semester_6/PL_SQL/PL SQL.md",
     "semester_6/PL_SQL",
-    "semester_6/Operating_Systems",
     "semester_6/Untitled.md"
   ]
 }
