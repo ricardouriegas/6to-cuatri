@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "semester_6/Oriented_Object_Paradigm/Network_Programming/ArchivesServer.md",
+                "file": "semester_6/Operating_Systems/Operating Systems.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "semester_6/Oriented_Object_Paradigm/Network_Programming/ArchivesServer.md",
+                "file": "semester_6/Operating_Systems/Operating Systems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "semester_6/Oriented_Object_Paradigm/Network_Programming/ArchivesServer.md",
+                "file": "semester_6/Operating_Systems/Operating Systems.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "semester_6/Oriented_Object_Paradigm/Network_Programming/ArchivesServer.md"
+                "file": "semester_6/Operating_Systems/Operating Systems.md"
               }
             }
           }
@@ -162,8 +162,8 @@
   },
   "active": "08419eaadfa03721",
   "lastOpenFiles": [
-    "semester_6/Operating_Systems/Operating_System_Utilities/Packaging.md",
     "semester_6/Oriented_Object_Paradigm/Network_Programming/ArchivesServer.md",
+    "semester_6/Operating_Systems/Operating_System_Utilities/Packaging.md",
     "semester_6/Oriented_Object_Paradigm/Network_Programming",
     "semester_6/Operating_Systems/Operating_System_Utilities/Scripting.md",
     "semester_6/Operating_Systems/Operating Systems.md",
