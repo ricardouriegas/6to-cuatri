@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "semester_6/Operating_Systems/Operating_System_Utilities/Scripting.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "08419eaadfa03721",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "semester_6/Operating_Systems/Operating Systems.md",
+                "file": "semester_6/Operating_Systems/Operating_System_Utilities/Remote Connections.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "semester_6/Operating_Systems/Operating Systems.md",
+                "file": "semester_6/Operating_Systems/Operating_System_Utilities/Remote Connections.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "semester_6/Operating_Systems/Operating Systems.md",
+                "file": "semester_6/Operating_Systems/Operating_System_Utilities/Remote Connections.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "semester_6/Operating_Systems/Operating Systems.md"
+                "file": "semester_6/Operating_Systems/Operating_System_Utilities/Remote Connections.md"
               }
             }
           }
@@ -160,13 +147,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "08419eaadfa03721",
+  "active": "9db38434178dae80",
   "lastOpenFiles": [
+    "semester_6/Operating_Systems/Operating Systems.md",
+    "semester_6/Operating_Systems/Operating_System_Utilities/Remote Connections.md",
+    "semester_6/Operating_Systems/Operating_System_Utilities/Basics.md",
+    "semester_6/Operating_Systems/Operating_System_Utilities/Scripting.md",
     "semester_6/Oriented_Object_Paradigm/Network_Programming/ArchivesServer.md",
     "semester_6/Operating_Systems/Operating_System_Utilities/Packaging.md",
     "semester_6/Oriented_Object_Paradigm/Network_Programming",
-    "semester_6/Operating_Systems/Operating_System_Utilities/Scripting.md",
-    "semester_6/Operating_Systems/Operating Systems.md",
     "README.md",
     "projects_nores/POO Project 4.md",
     "semester_6/Oriented_Object_Paradigm/Exceptions_And_Errors_Management/Exceptions and Errors.md",
@@ -183,7 +172,6 @@
     "semester_6/Oriented_Object_Paradigm/Exceptions_And_Errors_Management/images/Pasted image 20240623085218.png",
     "Pasted image 20240623085000.png",
     "img",
-    "semester_6/Operating_Systems/Operating_System_Utilities/Basics.md",
     "semester_6/Oriented_Object_Paradigm/Exceptions_And_Errors_Management",
     "semester_6/Operating_Systems/Operating_System_Administration",
     "semester_6/Operating_Systems/Operating_System_Utilities",
