@@ -1,3 +1,4 @@
 - [x] I need to resolve the issue i put on github 🛫 2024-06-24 (semi resolved but not fully complete) [https://github.com/ricardouriegas/sql-developer-and-modeler/issues]() ✅ 2024-07-02
 - [ ] i should finish the XML lexer for the SQL parser
 - [x] i should record the remote SSH server  connection for [[Operating Systems]] 📅 2024-07-04 ✅ 2024-07-04
+- [ ] i should check what with the grammar in XML
