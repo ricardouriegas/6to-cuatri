@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "projects_nores/POO Project 4.md",
+                "file": "semester_6/Operating_Systems/Operating Systems.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0b7cb5f994fcb028",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "semester_6/Oriented_Object_Paradigm/Oriented Object Paradigm.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "projects_nores/POO Project 4.md",
+                "file": "semester_6/Oriented_Object_Paradigm/Oriented Object Paradigm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "projects_nores/POO Project 4.md",
+                "file": "semester_6/Oriented_Object_Paradigm/Oriented Object Paradigm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "projects_nores/POO Project 4.md"
+                "file": "semester_6/Oriented_Object_Paradigm/Oriented Object Paradigm.md"
               }
             }
           }
@@ -147,15 +160,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9db38434178dae80",
+  "active": "0b7cb5f994fcb028",
   "lastOpenFiles": [
-    "TO DO.md",
-    "README.md",
-    "projects_nores/POO Project 4.md",
-    "semester_6/Oriented_Object_Paradigm/Network_Programming/ArchivesServer.md",
-    "semester_6/Oriented_Object_Paradigm/Oriented Object Paradigm.md",
     "semester_6/Operating_Systems/Operating Systems.md",
     "semester_6/Operating_Systems/Operating_System_Utilities/Remote Connections.md",
+    "projects_nores/POO Project 4.md",
+    "TO DO.md",
+    "README.md",
+    "semester_6/Oriented_Object_Paradigm/Network_Programming/ArchivesServer.md",
+    "semester_6/Oriented_Object_Paradigm/Oriented Object Paradigm.md",
     "semester_6/Operating_Systems/Operating_System_Utilities/Basics.md",
     "semester_6/Operating_Systems/Operating_System_Utilities/Scripting.md",
     "semester_6/Operating_Systems/Operating_System_Utilities/Packaging.md",

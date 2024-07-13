@@ -2,10 +2,9 @@
 ## Exceptions and Errors Management 
 - [[Exceptions and Errors]]
 ## User Interface 
+- [ ] insert POO's notes here 📅 2024-07-13 
 
 ## Concurrence
 
 ## Network Programming
 - [[ArchivesServer]]
-
-- [x] Import the first OOP notes here 🛫 2024-06-19 ✅ 2024-06-21

@@ -99,3 +99,4 @@ La ejecución de comandos en una conexión remota generalmente sigue estos pasos
 4. **Finalizar la sesión**:
    - Salir de la sesión SSH utilizando el comando `exit` o cerrando la terminal.
 
+- [ ] translate it to english ⏳ 2024-07-13 
