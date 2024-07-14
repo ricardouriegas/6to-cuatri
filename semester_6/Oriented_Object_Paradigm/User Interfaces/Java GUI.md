@@ -1309,7 +1309,7 @@ DropShadow sh = new DropShadow();
 sh.setRadius(rd);
 ```
 
-![](img/fig33.png)
+![[Pasted image 20240713212703.png]]
 
 ```Java
 double rad = Math.round(12.1 * d *10.0)/10.0;      // 9.7
@@ -1322,7 +1322,7 @@ is.setOffsetY(off);
 is.setRadius(rad);
 ```
 
-![](img/fig34.png)
+![[Pasted image 20240713212710.png]]
 
 ```Java
 double sS = Math.round((d * 4)*10.0)/10.0;      // 0.4
@@ -1340,7 +1340,7 @@ lSs.setLight(lightSs);
 lSs.setSurfaceScale(5.0);
 ```
 
-![](img/fig35.png)
+![[Pasted image 20240713212717.png]]
 
 ```Java
 double r = Math.round((63.0 * d)*10.0) / 10.0;      // 31.5
@@ -1350,7 +1350,7 @@ mb1.setRadius(r);
 mb1.setAngle(-15);
 ```
 
-![](img/fig36.png)
+![[Pasted image 20240713212723.png]]
 
 ```Java
 // double d = 0.9;
@@ -1361,7 +1361,7 @@ PerspectiveTransform pt =
 
 ```
 
-![](img/fig37.png)
+![[Pasted image 20240713212730.png]]
 
 ```Java
 // double d = 0.6;
@@ -1370,7 +1370,7 @@ Reflection ref = new Reflection();
 ref.setFraction(d);
 ```
 
-![](img/fig38.png)
+![[Pasted image 20240713212735.png]]
 
 ```Java
 // double d = 1.0;
