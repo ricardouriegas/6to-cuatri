@@ -23,16 +23,36 @@
             "id": "0b7cb5f994fcb028",
             "type": "leaf",
             "state": {
+              "type": "image",
+              "state": {
+                "file": "semester_6/Oriented_Object_Paradigm/User Interfaces/images/Pasted image 20240713212148.png"
+              }
+            }
+          },
+          {
+            "id": "f00ef5e949933c24",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "semester_6/Oriented_Object_Paradigm/User Interfaces/images/Pasted image 20240713212202.png"
+              }
+            }
+          },
+          {
+            "id": "479509e24d820cd6",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "semester_6/Oriented_Object_Paradigm/Oriented Object Paradigm.md",
+                "file": "semester_6/Oriented_Object_Paradigm/User Interfaces/Java GUI.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -98,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "semester_6/Oriented_Object_Paradigm/Oriented Object Paradigm.md",
+                "file": "semester_6/Oriented_Object_Paradigm/User Interfaces/Java GUI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "semester_6/Oriented_Object_Paradigm/Oriented Object Paradigm.md",
+                "file": "semester_6/Oriented_Object_Paradigm/User Interfaces/Java GUI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "semester_6/Oriented_Object_Paradigm/Oriented Object Paradigm.md"
+                "file": "semester_6/Oriented_Object_Paradigm/User Interfaces/Java GUI.md"
               }
             }
           }
@@ -160,15 +180,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0b7cb5f994fcb028",
+  "active": "479509e24d820cd6",
   "lastOpenFiles": [
+    "Pasted image 20240713212247.png",
+    "semester_6/Oriented_Object_Paradigm/User Interfaces/images/Pasted image 20240713212134.png",
+    "semester_6/Oriented_Object_Paradigm/User Interfaces/images/Pasted image 20240713212202.png",
+    "semester_6/Oriented_Object_Paradigm/User Interfaces/images/Pasted image 20240713212148.png",
+    "semester_6/Oriented_Object_Paradigm/User Interfaces/Java GUI.md",
+    "semester_6/Oriented_Object_Paradigm/User Interfaces/images",
+    "semester_6/Oriented_Object_Paradigm/User Interfaces/images/Pasted image 20240713212120.png",
+    "semester_6/Oriented_Object_Paradigm/User Interfaces/images/Pasted image 20240713212109.png",
+    "semester_6/Oriented_Object_Paradigm/User Interfaces/images/Pasted image 20240713212059.png",
+    "semester_6/Oriented_Object_Paradigm/User Interfaces/images/Pasted image 20240713212041.png",
+    "semester_6/Oriented_Object_Paradigm/User Interfaces/images/Pasted image 20240713212022.png",
+    "semester_6/Oriented_Object_Paradigm/Oriented Object Paradigm.md",
+    "semester_6/Oriented_Object_Paradigm/User Interfaces",
     "semester_6/Operating_Systems/Operating Systems.md",
     "semester_6/Operating_Systems/Operating_System_Utilities/Remote Connections.md",
     "projects_nores/POO Project 4.md",
     "TO DO.md",
     "README.md",
     "semester_6/Oriented_Object_Paradigm/Network_Programming/ArchivesServer.md",
-    "semester_6/Oriented_Object_Paradigm/Oriented Object Paradigm.md",
     "semester_6/Operating_Systems/Operating_System_Utilities/Basics.md",
     "semester_6/Operating_Systems/Operating_System_Utilities/Scripting.md",
     "semester_6/Operating_Systems/Operating_System_Utilities/Packaging.md",
@@ -178,12 +210,7 @@
     "semester_6/Oriented_Object_Paradigm/Exceptions_And_Errors_Management/images/Pasted image 20240623164203.png",
     "semester_6/Oriented_Object_Paradigm/Exceptions_And_Errors_Management/images/Pasted image 20240623164222.png",
     "jerarquia_exception.png.md",
-    "semester_6/Oriented_Object_Paradigm/Exceptions_And_Errors_Management/images/Pasted image 20240623164154.png",
-    "semester_6/Oriented_Object_Paradigm/Exceptions_And_Errors_Management/images/Pasted image 20240623090003.png",
-    "semester_6/Oriented_Object_Paradigm/Exceptions_And_Errors_Management/images/Pasted image 20240623085614.png",
     "semester_6/Oriented_Object_Paradigm/Exceptions_And_Errors_Management/images",
-    "semester_6/Oriented_Object_Paradigm/Exceptions_And_Errors_Management/images/Pasted image 20240623085218.png",
-    "Pasted image 20240623085000.png",
     "img",
     "semester_6/Oriented_Object_Paradigm/Exceptions_And_Errors_Management",
     "semester_6/Operating_Systems/Operating_System_Administration",
@@ -192,9 +219,7 @@
     "Untitled.md",
     "2024-06-18.md",
     "semester_6/Operating_Systems/Unit_1",
-    "LICENSE",
     "semester_6/PL_SQL/PL SQL.md",
-    "semester_6/PL_SQL",
     "semester_6/Untitled.md"
   ]
 }
