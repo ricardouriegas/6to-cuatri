@@ -556,7 +556,7 @@ Si ejecutamos la clase HelloWorld ahora, veremos el formulario familiar y lo lle
 
 Después de dar click al botón "Submit", la ventana anterior de cierra y una nueva aparece
 
-![](img/fig10.png)
+![[Pasted image 20240713212305.png]]
 
 Hacemos clic en el botón x en la esquina superior izquierda (o en la esquina superior derecha en Windows) y vemos el mismo mensaje que hemos visto antes:
 
@@ -641,7 +641,7 @@ El código anterior crea un objeto `WebView`, obtiene el objeto `WebEngine` de �
 
 Si ejecutamos el ejemplo anterior, el resultado será el siguiente:
 
-![](img/fig11.png)
+![[Pasted image 20240713212319.png]]
 
 Si es necesario, puede mostrar otros nodos JavaFX junto con el objeto `WebView` en la misma ventana. Por ejemplo, agreguemos un nodo `Text` sobre el HTML incrustado:
 
@@ -668,7 +668,7 @@ primaryStage.show();
 
 Como puede ver, el objeto `WebView` no se establece directamente en la escena, sino en el objeto de diseño, junto con el objeto *txt*. Luego, el objeto de diseño se establece en la escena. El resultado del código anterior es el siguiente:
 
-![](img/fig12.png)
+![[Pasted image 20240713212327.png]]
 
 Con una página HTML más compleja, es posible cargarla directamente desde el archivo, utilizando el método `load()`. Para demostrar este enfoque, creemos el archivo `form.html` en la carpeta de recursos con el siguiente contenido:
 
@@ -732,7 +732,7 @@ primaryStage.show();
 
 Como puede ver, la diferencia con nuestros otros ejemplos es que ahora usamos la clase `File` y su método `toURI()` para acceder al HTML en el archivo `src/main/resources/form.html` directamente, sin convertir el contenido en una cadena primero. El resultado es el siguiente:
 
-![](img/fig13.png)
+![[Pasted image 20240713212339.png]]
 
 Esta solución es útil cuando necesita enviar una solicitud o publicar datos desde su aplicación JavaFX. Pero, cuando el formulario que desea que un usuario complete ya está disponible en el servidor, puede cargarlo desde la URL. Por ejemplo, incorporemos una búsqueda de Google en la aplicación JavaFX. Podemos hacerlo cambiando el valor del parámetro del método `load()` a la URL de la página que nos gustaría cargar:
 
@@ -759,13 +759,13 @@ primaryStage.show();
 
 También hemos agregado un estilo al diseño para aumentar la fuente y agregar color al fondo, para que podamos ver el contorno del área donde está incrustado el HTML renderizado. Cuando ejecutamos este ejemplo, aparece la siguiente ventana:
 
-![](img/fig14.png)
+![[Pasted image 20240713212348.png]]
 
 En esta ventana, puede realizar todos los aspectos de una búsqueda a la que generalmente accede a través del navegador.
 
 Y, como ya hemos mencionado, puede ampliar la página renderizada. Por ejemplo, si agregamos la línea `wv.setZoom(1.5)` al ejemplo anterior, el resultado será el siguiente:
 
-![](img/fig15.png)
+![[Pasted image 20240713212408.png]]
 
 Del mismo modo, podemos establecer la escala de la fuente e incluso el estilo de un archivo:
 
@@ -834,7 +834,7 @@ primaryStage.show();
 
 Si ejecutamos el código anterior el resultado sería:
 
-![](img/fig16.png)
+![[Pasted image 20240713212420.png]]
 
 Los formatos de imagen admitidos actualmente son **BMP, GIF, JPEG y PNG**. Mire la documentación de la API de las clases [`Image` e `ImageView`](https://openjfx.io/javadoc/11/javafx.graphics/javafx/scene/image/package-summary.html) para conocer las muchas formas en que una imagen puede formatearse y ajustado según sea necesario.
 
@@ -889,7 +889,7 @@ Observe cómo se construye un objeto `Media` basado en el archivo fuente; entonc
 
 Si ejecutamos el código anterior, aparecerá la siguiente ventana y se reproducirá el archivo `jb.m3`:
 
-![](img/fig17.png)
+![[Pasted image 20240713212429.png]]
 
 Podríamos agregar controles para detener, pausar y ajustar el volumen, pero requeriría mucho más código, **se queda como ejercicio al alumno**. Puede encontrar una guía sobre cómo hacerlo en la documentación en línea de [Oracle](https://docs.oracle.com/javafx/2/media/jfxpub-media.htm).
 
@@ -920,7 +920,7 @@ mp.play();
 
 La única diferencia es el tamaño diferente de la escena necesaria para mostrar el fotograma completo de este clip en particular. Alternativamente, podríamos usar los métodos `MediaView autosize ()`, `preserveRatioProperty ()`, `setFitHeight ()`, `setFitWidth ()`, `fitWidthProperty ()`, `fitHeightProperty ()`, y similares, para ajustar el tamaño de la ventana incrustada y para que coincida con el tamaño de la ventana escena automáticamente. Si ejecutamos el ejemplo anterior, aparecerá la siguiente ventana emergente y reproducirá el clip:
 
-![](img/fig18.png)
+![[Pasted image 20240713212437.png]]
 
 Incluso podemos combinar la reproducción de archivos de audio y video en paralelo, y así proporcionar una película con una banda sonora:
 
@@ -1059,7 +1059,7 @@ g.setEffect(blnd);
 
 Para cada modo, creamos dos grupos, uno con la entrada donde el círculo está en la parte superior del cuadrado, otro con la entrada donde el cuadrado está en la parte superior del círculo, y colocamos los cuatro grupos creados en un diseño `GridPane` (vea el código fuente para más detalles). Si ejecutamos la aplicación `BlendEffect`, el resultado será este:
 
-![](img/fig19.png)
+![[Pasted image 20240713212449.png]]
 
 Como era de esperar, cuando el cuadrado está en la parte superior (las dos imágenes a la derecha), el área opaca toma completamente el área superpuesta. Pero, cuando el círculo es una entrada superior (las dos imágenes de la izquierda), el área superpuesta es algo visible y calculada en función del efecto de fusión.
 
@@ -1074,7 +1074,7 @@ g.setBlendMode(BlendMode.MULTIPLY);
 
 Si ejecutamos la aplicación nuevamente, el resultado sería
 
-![](img/fig20.png)
+![[Pasted image 20240713212503.png]]
 
 Como puede ver, el color rojo del círculo ha cambiado ligeramente y no hay diferencia entre los modos `MULTIPLY` y `SRC_OVER`. Ese es el problema con la secuencia de agregar los nodos a la escena que mencionamos al comienzo de la sección.
 
@@ -1091,7 +1091,7 @@ Node g = new Group(s, c);
 
 Nuevamente ejecutamos el código y obtendremos
 
-![](img/fig21.png)
+![[Pasted image 20240713212511.png]]
 
 Las dos imágenes de la derecha siguen siendo las mismas que en todos los ejemplos anteriores, pero las dos imágenes de la izquierda muestran los nuevos colores del área superpuesta. Ahora configuremos el mismo efecto de mezcla en el cuadrado en lugar del círculo de la siguiente manera:
 
@@ -1106,7 +1106,7 @@ Node g = new Group(s, c);
 
 El resultado cambiará ligeramente nuevamente y se verá como se presenta en la siguiente captura de pantalla:
 
-![](img/fig22.png)
+![[Pasted image 20240713212518.png]]
 
 No hay diferencia entre los modos `MULTIPLY` y `SRC_OVER`, pero el color rojo es diferente al que teníamos cuando configuramos el efecto en el círculo.
 
@@ -1120,17 +1120,17 @@ c.setBlendMode(BlendMode.MULTIPLY);
 
 el resultado nuevamente cambia
 
-![](img/fig23.png)
+![[Pasted image 20240713212529.png]]
 
 Establecer el modo de mezcla en el cuadrado solo elimina la diferencia entre los modos `MULTIPLY` y `SRC_OVER` nuevamente:
 
-![](img/fig24.png)
+![[Pasted image 20240713212535.png]]
 
 Para evitar confusiones y hacer que los resultados de la mezcla sean más predecibles, debe observar la secuencia en la que se agregan los nodos a la escena y la consistencia de la forma en que se aplica el efecto de mezcla.
 
 El código fuente se encuentra como anexo a este documento, el cual el resultado sería.
 
-![](img/fig25.png)
+![[Pasted image 20240713212542.png]]
 
 Para su conveniencia, se proporcionan botones Pausa y Continuar que le permiten pausar la demostración y revisar el resultado para diferentes valores de opacidad establecidos en el efecto de mezcla.
 
@@ -1233,7 +1233,7 @@ primaryStage.show();
 
 Las siguientes capturas de pantalla muestran ejemplos de los efectos de 1 de los 10 valores de parámetros. Debajo de cada captura de pantalla, presentamos el fragmento de código del método `createEffect(String effect, double d, Text txt)` que creó este efecto:
 
-![](img/fig26.png)
+![[Pasted image 20240713212552.png]]
 
 ```Java
 //double d = 0.9;
@@ -1242,7 +1242,7 @@ Bloom b = new Bloom();
 b.setThreshold(d);
 ```
 
-![](img/fig27.png)
+![[Pasted image 20240713212559.png]]
 
 ```Java
 // double d = 0.3;
@@ -1253,7 +1253,7 @@ BoxBlur bb = new BoxBlur();
 bb.setIterations(i);
 ```
 
-![](img/fig28.png)
+![[Pasted image 20240713212609.png]]
 
 ```Java
 double c = Math.round((-1.0 + d * 2) * 10.0) / 10.0;      // 0.6
@@ -1262,7 +1262,7 @@ ColorAdjust ca = new ColorAdjust();
 ca.setContrast(c);
 ```
 
-![](img/fig29.png)
+![[Pasted image 20240713212616.png]]
 
 ```Java
 double h = Math.round((-1.0 + d * 2) * 10.0) / 10.0;     // 0.6
@@ -1271,7 +1271,7 @@ ColorAdjust ca1 = new ColorAdjust();
 ca1.setHue(h);
 ```
 
-![](img/fig30.png)
+![[Pasted image 20240713212623.png]]
 
 ```Java
 double st = Math.round((-1.0 + d * 2) * 10.0) / 10.0;    // 0.6
@@ -1280,7 +1280,7 @@ ColorAdjust ca3 = new ColorAdjust();
 ca3.setSaturation(st);
 ```
 
-![](img/fig31.png)
+![[Pasted image 20240713212635.png]]
 
 ```Java
 int w = (int)Math.round(4096 * d);  //819
@@ -1299,7 +1299,7 @@ for (int k = 0; k < w; k++) {
 dm.setMapData(floatMap);
 ```
 
-![](img/fig32.png)
+![[Pasted image 20240713212650.png]]
 
 ```Java
 double rd = Math.round((127.0 * d) * 10.0) / 10.0; // 127.0
