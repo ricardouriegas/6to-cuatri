@@ -2,9 +2,9 @@
 ## Exceptions and Errors Management 
 - [[Exceptions and Errors]]
 ## User Interfaces 
-- [ ] insert POO's notes here 📅 2024-07-13 
-
+- [[Java GUI]]
 ## Concurrence
+- [ ] Include notes here 📅 2024-07-15 
 
 ## Network Programming
 - [[ArchivesServer]]

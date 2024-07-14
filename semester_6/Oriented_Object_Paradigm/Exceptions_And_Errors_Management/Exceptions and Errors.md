@@ -1,4 +1,3 @@
-- [ ] resumir esto y organizarlo en mas archivos ⏳ 2024-06-22 
 # Errores y Excepciones
 
 ## Excepciones
