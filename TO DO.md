@@ -1,4 +1,5 @@
 Here you will find some activities i need to do in a future:
+- [ ] plans the XML parser🛫 2024-07-15 
 
 ```tasks
 # Only tasks that are not done, that is, which begin like this (but without the quotes):
