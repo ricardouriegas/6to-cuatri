@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "semester_6/Oriented_Object_Paradigm/Concurrence/Concurrence.md",
+                "file": "TO DO.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "semester_6/Oriented_Object_Paradigm/Concurrence/Concurrence.md",
+                "file": "TO DO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "semester_6/Oriented_Object_Paradigm/Concurrence/Concurrence.md",
+                "file": "TO DO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "semester_6/Oriented_Object_Paradigm/Concurrence/Concurrence.md"
+                "file": "TO DO.md"
               }
             }
           }
@@ -162,8 +162,8 @@
   },
   "active": "479509e24d820cd6",
   "lastOpenFiles": [
-    "semester_6/Oriented_Object_Paradigm/Exceptions_And_Errors_Management/Exceptions and Errors.md",
     "semester_6/Oriented_Object_Paradigm/Concurrence/Concurrence.md",
+    "semester_6/Oriented_Object_Paradigm/Exceptions_And_Errors_Management/Exceptions and Errors.md",
     "semester_6/Oriented_Object_Paradigm/Concurrence/images",
     "semester_6/Oriented_Object_Paradigm/Oriented Object Paradigm.md",
     "semester_6/Oriented_Object_Paradigm/Concurrence",
