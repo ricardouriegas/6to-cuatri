@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7170c0fec18c1152",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TO DO.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -160,7 +172,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "479509e24d820cd6",
+  "active": "7170c0fec18c1152",
   "lastOpenFiles": [
     "semester_6/Oriented_Object_Paradigm/Concurrence/Concurrence.md",
     "semester_6/Oriented_Object_Paradigm/Exceptions_And_Errors_Management/Exceptions and Errors.md",

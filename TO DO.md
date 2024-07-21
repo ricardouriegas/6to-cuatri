@@ -1,6 +1,8 @@
 Here you will find some activities i need to do in a future:
 - [x] plans the XML parser 🛫 2024-07-15 ✅ 2024-07-19
 - [ ] verify the xml parser🛫 2024-07-19 
+- [ ] add the 10 image per topic to the the Operating Systems homework 📅 2024-07-21 
+- [ ] send the Operating Systems homework 📅 2024-07-21 
 
 ```tasks
 # Only tasks that are not done, that is, which begin like this (but without the quotes):
